@@ -59,6 +59,10 @@ Use an external interrupt to improve responsiveness.
 
 Add reset functionality with a second button.
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/04dcd2a3-8d89-40a2-9d28-755e4603d1f6)
+
 
 
 
