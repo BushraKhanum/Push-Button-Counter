@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS
 
-*METOR*: NEELA SANTHOSH KUMAR
+*MENTOR*: NEELA SANTHOSH KUMAR
 
 This project is a simple and beginner-friendly implementation of a push button counter using an Arduino UNO. The system is designed to increment a counter each time a button is pressed and display the count in real-time via the Serial Monitor. It is ideal for understanding basic digital input handling, debouncing techniques, and serial communication in embedded systems.
 
