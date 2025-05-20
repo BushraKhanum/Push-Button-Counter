@@ -21,14 +21,11 @@ The main objective of this project is to detect button presses and count how man
 *Components Used*
 
 Arduino UNO
-
 Push Button
-
 10kΩ Resistor (for pull-down configuration)
-
 Breadboard and Jumper Wires
-
 Serial Monitor
+Potentiometer
 
 *Working Principle*
 
